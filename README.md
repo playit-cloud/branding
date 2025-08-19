@@ -1,4 +1,4 @@
-## Playit Branding
+![logo](./playit-logo.png)
 
 Branding material for playit.gg.
 
